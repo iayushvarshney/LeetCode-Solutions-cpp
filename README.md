@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Language-Cpp14-green"></img><br>
-<img src="https://img.shields.io/badge/Easy-14-green"></img>
+<img src="https://img.shields.io/badge/Easy-16-green"></img>
 <img src="https://img.shields.io/badge/Medium-1-orange"></img>
 <img src="https://img.shields.io/badge/Hard-0-red"></img>
 
