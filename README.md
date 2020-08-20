@@ -14,7 +14,7 @@
 | ID   | Problem                                  | Solution                                 | Difficulty | Remark |
 |------|------------------------------------------|------------------------------------------|------------|--------|
 | 258  | Add Digits                               | [Add Digits](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Easy/Add-Digits.cpp)                               | Easy       |        |
-| 1344 | Angle Between Hands of a Clock           | [Angle Between Hands of a Clock](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/medium/Angle-Between-Hands-of-a-Clock.cpp)           | Medium     |        |
+| 1344 | Angle Between Hands of a Clock           | [Angle Between Hands of a Clock](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Medium/Angle-Between-Hands-of-a-Clock.cpp)           | Medium     |        |
 | 121  | Best Time to Buy and Sell Stock          | [Best Time to Buy and Sell Stock](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Easy/Defanging-An-IP-Address.cpp)          | Easy       |        |
 | 1108 | Defanging an IP Address                  | [Defanging an IP Address](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Easy/Defanging-An-IP-Address.cpp)                  | Easy       |        |
 | 1295 | Find Numbers with Even Number of Digits  | [Find Numbers with Even Number of Digits](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Easy/Find-Numbers-With-Even-Number-of-Digits.cpp)  | Easy       |        |
