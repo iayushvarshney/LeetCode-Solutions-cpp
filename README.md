@@ -13,7 +13,7 @@
 
 | ID   | Problem                                  | Solution                                 | Difficulty | Remark |
 |------|------------------------------------------|------------------------------------------|------------|--------|
-| 258  | Add Digits                               | [Add Digits](https://github.com/iayushvarshney/LeetCode_Solutions/blob/master/easy/Add-Digits.cpp)                               | Easy       |        |
+| 258  | Add Digits                               | [Add Digits](https://github.com/iayushvarshney/LeetCode-Solutions-cpp/blob/master/Easy/Add-Digits.cpp)                               | Easy       |        |
 | 1344 | Angle Between Hands of a Clock           | [Angle Between Hands of a Clock](https://github.com/iayushvarshney/LeetCode_Solutions/blob/master/medium/Angle-Between-Hands-of-a-Clock.cpp)           | Medium     |        |
 | 121  | Best Time to Buy and Sell Stock          | [Best Time to Buy and Sell Stock](https://github.com/iayushvarshney/LeetCode_Solutions/blob/master/easy/Defanging-An-IP-Address.cpp)          | Easy       |        |
 | 1108 | Defanging an IP Address                  | [Defanging an IP Address](https://github.com/iayushvarshney/LeetCode_Solutions/blob/master/easy/Defanging-An-IP-Address.cpp)                  | Easy       |        |
