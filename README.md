@@ -7,7 +7,7 @@
 
 <UL>
   <LI>There are new LeetCode questions every day. I'll keep updating for full summary and better solutions.There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.</li>
-  <li>All the solutions is verified from LeetCode Compiler only.</li>
+  <li>All the solutions are verified from LeetCode Compiler only.</li>
 </ul>
 
 
